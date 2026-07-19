@@ -1,0 +1,3 @@
+line 1: natural language processing patterns
+line 2: recurrent neural networks training
+line 3: transformer architectures pre-training
